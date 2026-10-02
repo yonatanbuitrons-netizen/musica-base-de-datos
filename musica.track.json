@@ -1,0 +1,42 @@
+[{
+  "_id": {
+    "$oid": "6ac00bad087c130d53eeea86"
+  },
+  "nombre": "Blinding Lights",
+  "artista": "The Weeknd",
+  "album": "After Hours",
+  "genero": "Pop",
+  "duracion": 200,
+  "fecha_lanzamiento": "2020-11-29",
+  "reproducciones": {
+    "$numberLong": "3500000000"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ac034ea9b95b99996233cf8"
+  },
+  "nombre": "Shape of You",
+  "artista": "Ed Sheeran",
+  "album": "Divide",
+  "genero": "Pop",
+  "duracion": 234,
+  "fecha_lanzamiento": "2017-01-06",
+  "reproducciones": {
+    "$numberLong": "4000000000"
+  }
+},
+{
+  "_id": {
+    "$oid": "6ac035459b95b99996233cfa"
+  },
+  "nombre": "Billie Jean",
+  "artista": "Michael Jackson",
+  "album": "Thriller",
+  "genero": "Pop",
+  "duracion": 294,
+  "fecha_lanzamiento": "1983-01-02",
+  "reproducciones": {
+    "$numberLong": "1500000000"
+  }
+}]

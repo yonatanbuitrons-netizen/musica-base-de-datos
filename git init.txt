@@ -1,0 +1,4 @@
+git init 
+npm install connect-multiparty
+npm install express
+npm install mongoose
